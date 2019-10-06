@@ -1,0 +1,10 @@
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\bin\Debug\StatsSystemV0.0.1.exe.config
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\bin\Debug\StatsSystemV0.0.1.exe
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\bin\Debug\StatsSystemV0.0.1.pdb
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\obj\Debug\StatsSystemV0.0.1.csprojAssemblyReference.cache
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\obj\Debug\StatsSystemV0._0._1.Form1.resources
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\obj\Debug\StatsSystemV0._0._1.Properties.Resources.resources
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\obj\Debug\StatsSystemV0.0.1.csproj.GenerateResource.cache
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\obj\Debug\StatsSystemV0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\obj\Debug\StatsSystemV0.0.1.exe
+C:\Users\davis\Source\Repos\CollegiateR6\CR6StatSystemV0.0.1\StatsSystemV0.0.1\StatsSystemV0.0.1\obj\Debug\StatsSystemV0.0.1.pdb
